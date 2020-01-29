@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Fox.Microservices.Payments</name>
+    </assembly>
+    <members>
+        <member name="M:Fox.Microservices.Payments.Controllers.PaymentsController.Customer(System.String)">
+            <summary>
+            Given a customer ID returns all customer's payments
+            </summary>
+            <param name="id">Customer's ID</param>
+            <returns>Customer's payments</returns>
+        </member>
+    </members>
+</doc>
